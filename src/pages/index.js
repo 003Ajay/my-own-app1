@@ -3,6 +3,7 @@ import Link from 'next/link';
 export default function Home() {
   return (
     <div>
+      <h1>Hello!!</h1>
       <h1>Welcome to My Next.js App</h1>
       <nav>
         <Link href="/about">About</Link> |{" "}
